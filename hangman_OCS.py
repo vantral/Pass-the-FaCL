@@ -1,6 +1,5 @@
 """Hangman
-Standard game of Hangman. A word is chosen at random from a list and the
-user must guess the word letter by letter before running out of attempts."""
+Адаптированный код из источника: https://codereview.stackexchange.com/questions/95997/simple-game-of-hangman"""
 
 import random
 import time
